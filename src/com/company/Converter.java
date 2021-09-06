@@ -1,3 +1,5 @@
+//conver the rupees to dollar
+
 package com.company;
 
 import java.util.Scanner;

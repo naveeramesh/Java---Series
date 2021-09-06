@@ -1,3 +1,5 @@
+//Find the factorial of a number
+
 package com.company;
 
 import java.util.Scanner;

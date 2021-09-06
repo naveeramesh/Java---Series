@@ -1,8 +1,10 @@
+//Find the largest number until the user enters the value 0
+
 package com.company;
 
 import java.util.Scanner;
 
-public class LargeNumber0 {
+public class LargestNumber {
     public static void main(String[] args) {
         boolean condition=true;
         int large = Integer.MIN_VALUE;

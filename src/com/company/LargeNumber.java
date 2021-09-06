@@ -1,3 +1,4 @@
+//Find the largest number of 2 numbers
 package com.company;
 
 import java.util.Scanner;

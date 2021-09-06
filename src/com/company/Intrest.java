@@ -1,3 +1,5 @@
+//Find the simple interest where take the input of Principle and time rate
+
 package com.company;
 
 import java.util.Scanner;

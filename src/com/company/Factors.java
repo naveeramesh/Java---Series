@@ -1,3 +1,5 @@
+//Find the factors of given number
+
 package com.company;
 
 import java.util.Scanner;

@@ -8,6 +8,7 @@ public class Binary {
 
     }
    static int BinarySearch(int[] arr,int target) {
+        //using index
       int start=0;
       int end=arr.length-1;
 

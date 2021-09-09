@@ -11,12 +11,12 @@ public class Selection {
     }
     static void SelectionSort(int[] arr){
         for (int i = 0; i < arr.length; i++) {
-            //finding the last element
-            int lastnumber=arr.length - i - 1;
+            //finding the last element eg array={5,4,3,2,1},last index=5-0-1=4 so the last element is in 4th index.
+            int lastindex=arr.length - i - 1;
             //find the largest element in an array
-            int maxindex= getMax(arr,0,lastnumber);
+            int maxindex= getMax(arr,0,lastindex);
             //swapping the largest element to respective position
-            swap(arr,maxindex,lastnumber);
+            swap(arr,maxindex,lastindex);
         }
     }
 
